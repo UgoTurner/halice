@@ -1,0 +1,6 @@
+#Python
+gTTS==1.1.5
+
+#Other
+soX==14.4.2
+mpg321==0.3.2
